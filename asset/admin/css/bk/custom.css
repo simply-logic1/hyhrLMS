@@ -1,0 +1,161 @@
+footer {
+    display: none !important;
+}
+.login {
+
+    overflow: hidden;
+}
+.pt-5 {
+    padding-top: 3rem;
+}
+.mt-5
+{
+    margin-top: 3rem;
+}
+a.site_title img {
+    width: 100px;
+}
+.login_content img {
+    width: 200px;
+}
+.nav_title,.site_title {
+     
+    height: 100px !important;
+}
+.nav-sm .nav_title,.nav-sm .site_title {
+     
+    height: 50px !important;
+}
+.nav-sm a.site_title img {
+    width: 50px;
+}
+.login_form {
+
+  /*background: url(../../img/papa_trns.png) no-repeat center #5a819a; */
+  background-color:#ffffff;
+    color: #fff;
+    min-height: 385px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: relative;
+    padding-top: 2rem;
+	}
+.login_content {
+    margin: 0 auto;
+    padding: 15px;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+}
+.nav-md .container.body .right_col {
+    padding: 65px 20px 0 !important;
+   
+}
+.back {
+ background-color:#ffffff; 
+height:10%; 
+
+    
+}
+div#new_question {
+    padding: 4rem;
+}
+.fa
+{
+    margin-right:1rem;
+}
+.head1{
+text-align:left;
+
+}
+.btn1{
+border-radius:17px;
+width:15%;
+margin-left:20px;
+margin-top:2rem;
+
+text-align:center;
+}
+.head{
+margin-left:20px;
+margin-top:-4rem;
+color:#000000;
+}
+.video_table{
+margin-top: 5rem;
+    width: 73%;
+    margin-left: 18rem;
+}
+.back1 {
+ background-color:#ffffff; 
+height:50%; 
+width:30%;
+margin-left:4rem;
+
+    
+}
+.video_img{
+margin-top:6rem;
+}
+.head2{
+margin-left:2rem;
+color:#000000;
+}
+.para{
+margin-left:2rem;
+color:#000000;
+}
+.top1 {
+    text-align:center;
+ margin-top:54px;
+ margin-bottom: 3rem;
+}
+.tab-content {
+    padding: 2rem;
+}
+.top2 {
+    display:inline-block;
+    float:none;
+
+    text-align:left;  
+       margin-left: -26px;
+
+}
+.ques_head {
+    margin: 1rem;
+    font-size: 16px;
+}
+.ques_head i
+{
+font-size: 22px;
+    color: red;
+}
+div#ques_list {
+    margin: 2rem;
+}
+.questions {
+    border: 1px solid #5C849B;
+    margin: 2rem;
+    border-radius: 1rem;
+    margin-top:20px;
+}
+#ques_delete:first-child
+{
+  display:none;
+}
+#ques_delete
+{
+cursor:pointer;
+}
+.ques_option .fa
+{
+    margin-left:0.5rem;
+    color:green;
+}
+button#add_question {
+    border-radius: 1rem;
+    background: #5C849B;
+    color: #ffffff;
+}
+

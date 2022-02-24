@@ -1,0 +1,38 @@
+simply mam, [2/1/2022 11:06 AM]
+Survey, Should have a name and questions
+
+simply mam, [2/1/2022 11:07 AM]
+Document Upload
+
+simply mam, [2/1/2022 11:07 AM]
+Ambassador Education - Document upload
+
+simply mam, [2/1/2022 11:08 AM]
+Send amb an email if they have not viewed yet - needs linking with klaviyo (for now send from LMS maybe after 3 hours)
+
+simply mam, [2/1/2022 11:10 AM]
+Please view Ambassador education material.  Please view educational videos, Please view the document attached
+
+simply mam, [2/1/2022 11:10 AM]
+Reminder Email
+
+simply mam, [2/1/2022 11:12 AM]
+Mobile friendly by Friday
+
+simply mam, [2/1/2022 11:14 AM]
+Amb login make it look more like Tin's EarnHYHR
+
+simply mam, [2/1/2022 11:14 AM]
+https://hyhr-ui.herokuapp.com/
+
+simply mam, [2/1/2022 11:17 AM]
+Admin - Ambassador (video and quiz) results - needs some fixing
+
+simply mam, [2/1/2022 11:21 AM]
+Issues, Doc upload, Survey, Separate doc section, Mobile friendly, Ambassador login to look like third party, Ambassador login to show edu material, Doc, Start quiz, Quiz taken
+
+simply mam, [2/1/2022 11:21 AM]
+Thanks for watching the video.  Would you like to take the quiz now?
+
+simply mam, [2/1/2022 11:24 AM]
+Test eveything
